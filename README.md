@@ -44,7 +44,7 @@ Tecnologias e ferramentas utilizadas no desenvolvimento do projeto:
 
 ```bash
 # Abra um terminal e copie este repositório com o comando
-git clone https://github.com/Guhma/moveit
+git clone https://github.com/Guhma/Move.it
 # ou use a opção de download.
 
 # Entre na pasta do projeto com 
